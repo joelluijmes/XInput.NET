@@ -1,0 +1,5 @@
+c:\users\joel\documents\visual studio 2013\Projects\C#\XInput\XInput\bin\Debug\XInput.dll
+c:\users\joel\documents\visual studio 2013\Projects\C#\XInput\XInput\bin\Debug\XInput.pdb
+c:\users\joel\documents\visual studio 2013\Projects\C#\XInput\XInput\obj\Debug\XInput.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2013\Projects\C#\XInput\XInput\obj\Debug\XInput.dll
+c:\users\joel\documents\visual studio 2013\Projects\C#\XInput\XInput\obj\Debug\XInput.pdb

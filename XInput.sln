@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XInput", "XInput\XInput.csproj", "{B1734A7B-1B7E-404D-B0A1-F53022915DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XController", "XController\XController.csproj", "{DEB2864F-016F-4E4D-BD8A-F00749FAC01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1734A7B-1B7E-404D-B0A1-F53022915DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1734A7B-1B7E-404D-B0A1-F53022915DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1734A7B-1B7E-404D-B0A1-F53022915DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1734A7B-1B7E-404D-B0A1-F53022915DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB2864F-016F-4E4D-BD8A-F00749FAC01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB2864F-016F-4E4D-BD8A-F00749FAC01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB2864F-016F-4E4D-BD8A-F00749FAC01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB2864F-016F-4E4D-BD8A-F00749FAC01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
