@@ -4,8 +4,8 @@ c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\bin\De
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\bin\Debug\XInput.dll
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\bin\Debug\XInput.pdb
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.csprojResolveAssemblyReference.cache
-c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.Form1.resources
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.Properties.Resources.resources
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.csproj.GenerateResource.Cache
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.exe
 c:\Users\Joel\documents\visual studio 2013\Projects\C#\XInput\XController\obj\Debug\XController.pdb
+C:\Users\Joel\Documents\Visual Studio 2013\Projects\C#\XInput\XController\bin\Debug\FastColoredTextBox.dll
